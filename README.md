@@ -24,7 +24,7 @@ Currently working on my thesis: an Android app that recommends over-the-counter 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [kerja-praktek](https://github.com/oktarizagunawan63/kerja-praktek) | Sales and project-monitoring dashboard for PT Amsar Prima Mandiri, 5 user roles | Laravel 11, React, Zustand, Recharts |
+| kerja-praktek (private) | Sales and project-monitoring dashboard for PT Amsar Prima Mandiri, 5 user roles | Laravel 11, React, Zustand, Recharts |
 | [portofolioterbaru](https://github.com/oktarizagunawan63/portofolioterbaru) | Personal portfolio, live at [oktariza.vercel.app](https://oktariza.vercel.app) | React 19, Tailwind, Framer Motion |
 | [futsal_booking](https://github.com/oktarizagunawan63/futsal_booking) | Futsal court booking site with an admin panel | PHP, MySQL |
 | [perpustakaan](https://github.com/oktarizagunawan63/perpustakaan) | Library system: catalog, member accounts, admin | PHP, MySQL |
